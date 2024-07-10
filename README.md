@@ -2,6 +2,12 @@
 I'm Dominik, a software engineer with a focus in Machine Learning.
 I currently work as a senior software engineer at [PASQAL](https://pasqal.com) on quantum machine learning.
 
+### Interests
+
+#### AutoDiff
+I enjoy working with automatic differentiation engines like torch and JAX. During my time as Pasqal, I developed several custom vjps and jvps and I am working on documentating my learning process [here](https://github.com/dominikandreasseitz/custom_jvp_vjp_tutorials).
+#### Rust
+#### Compilers
 
 ### Cool stuff I was part of
 
@@ -11,8 +17,10 @@ I have previously worked in algorithmic game theory research focussing on solvin
 Check out my [scholar](https://scholar.google.com/citations?user=iLP6ouIAAAAJ&hl=en&oi=ao) profile to view my other papers.
 
 #### Quantum Machine Learning
-At [Pasqal](https://pasqal.com), I was responsible for the development and optimization of their main torch-based computational backend[pyqtorch](https://github.com/pasqal-io/pyqtorch) and their JAX backend [horqrux](https://github.com/pasqal-io/horqrux).
-I was also part of the scientific software library for quantum machine learning, [Qadence](https://github.com/pasqal-io/qadence). Check out the white paper [whitepaper](https://arxiv.org/pdf/2401.09915).
+At [Pasqal](https://pasqal.com), I was responsible for the development and optimization of their main torch-based computational backend [pyqtorch](https://github.com/pasqal-io/pyqtorch) and their JAX backend [horqrux](https://github.com/pasqal-io/horqrux).
+
+I was also part of the scientific software library for quantum machine learning, [Qadence](https://github.com/pasqal-io/qadence). 
+To learn more, check out the qadence [whitepaper](https://arxiv.org/pdf/2401.09915).
 
 
 ### Reach out
