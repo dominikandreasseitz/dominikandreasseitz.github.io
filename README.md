@@ -11,12 +11,12 @@ I enjoy working with automatic differentiation engines like torch and JAX. Durin
 
 ### Cool stuff I was part of
 
-#### Algorthmic Game Theory and Reinforcment Learning Research
+#### Algorithmic Game Theory and Reinforcment Learning Research
 I have previously worked in algorithmic game theory research focussing on solving large partially-observable games which most notably lead to a Artificial Intelligence journal [publication](https://doi.org/10.1016/j.artint.2022.103805).
 
 Check out my [scholar](https://scholar.google.com/citations?user=iLP6ouIAAAAJ&hl=en&oi=ao) profile to view my other papers.
 
-#### Quantum Machine Learning
+#### Open-source Quantum Machine Learning software
 At [Pasqal](https://pasqal.com), I was responsible for the development and optimization of their main torch-based computational backend [pyqtorch](https://github.com/pasqal-io/pyqtorch) and their JAX backend [horqrux](https://github.com/pasqal-io/horqrux).
 
 I was also part of the scientific software library for quantum machine learning, [Qadence](https://github.com/pasqal-io/qadence). 
